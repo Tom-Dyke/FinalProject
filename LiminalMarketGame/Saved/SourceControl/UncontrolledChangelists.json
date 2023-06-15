@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/Supermarket_Map.umap",
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/AssetsMap.umap",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t256.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2562.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2563.uasset",
