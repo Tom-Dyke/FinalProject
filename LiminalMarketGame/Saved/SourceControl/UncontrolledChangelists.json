@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/Supermarket_Map.umap",
-				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/AssetsMap.umap",
-				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Props/Materials/MI_WelcomeSign_Inst.uasset",
-				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/LiminalMarket/Maps/LM.umap",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t256.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2562.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2563.uasset",
@@ -61,6 +57,20 @@
 				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Maps/LM.umap",
 				"D:/FinalProject/LiminalMarketGame/Content/MMSupermarket/Equipment/Materials/MI_Rail01_Inst_switch.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/MMSupermarket/Equipment/Textures/T_Rail01_Diff_switch.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Decals/TexturesCom_DecalsStain0041_1_masked_S.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Decals/TexturesCom_DecalsStain0094_2_masked_S.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Decals/TexturesCom_SplatterSmear0062_M.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Decals/TexturesCom_DecalsLeaking0340_2_masked_S.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Janitor/DONEJANITORBroom.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Medical/DONEMEDICALpill_bottle_pill_lid.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Medical/DONEMEDICALpill_bottle_pill_bottle.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Medical/pill_banner.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Medical/pill_edge.uasset",
+				"D:/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Medical/pill_bottle.uasset",
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/Supermarket_Map.umap",
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Maps/AssetsMap.umap",
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/MMSupermarket/Props/Materials/MI_WelcomeSign_Inst.uasset",
+				"C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Content/LiminalMarket/Maps/LM.umap",
 				"C:/Users/nerdb/Documents/Unreal Projects/LiminalMarketGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
