@@ -1,2 +1,3 @@
-2023/06/13-14:11:15.408 2fcc Creating DB C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/06/13-14:11:15.424 2fcc Reusing MANIFEST C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/06/23-12:07:41.255 3c98 Reusing MANIFEST C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/06/23-12:07:41.261 3c98 Recovering log #3
+2023/06/23-12:07:41.262 3c98 Reusing old log C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
