@@ -1,6 +1,0 @@
-2023/06/29-13:21:26.952 2fe0 Creating DB C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/06/29-13:21:26.959 2fe0 Reusing MANIFEST C:/Unreal Projects/LiminalMarket/LiminalMarketGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/29-13:49:40.350 4518 Level-0 table #5: started
-2023/06/29-13:49:40.362 4518 Level-0 table #5: 1167 bytes OK
-2023/06/29-13:49:40.365 4518 Delete type=0 #3
-2023/06/29-13:49:40.366 4518 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
