@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/FishMonger_Assets/Textures/Fish_BaseDisplay_Tex/Fish_BaseDisplay_T.uasset",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/FishMonger_Assets/Textures/Fish_Basket_Tex/Fish_Basket_T.uasset",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/FishMonger_Assets/Textures/IcePack_T.uasset",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/FishMonger_Assets/Textures/Fish_Fillet/Fish_Fillet_T.uasset",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/Maps/LM.umap",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/FishMonger_Assets/Textures/Fish_Sign/Fish_Sign_T.uasset",
+				"C:/Users/USER/Desktop/FinalProject-main/Repository/FinalProject/LiminalMarketGame/Content/LiminalMarket/Aquired_Assets/Fishmonger/fish/textures/HammerHead/HammerHead_T.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2562_Mat.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t2563_Mat.uasset",
 				"D:/FinalProject/LiminalMarketGame/Content/FirstPerson/texturemats/man_t256_Mat.uasset",
