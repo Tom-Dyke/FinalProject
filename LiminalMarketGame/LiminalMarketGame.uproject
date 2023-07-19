@@ -22,10 +22,6 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
-		},
-		{
-			"Name": "WmfMedia",
-			"Enabled": false
 		}
 	]
 }
